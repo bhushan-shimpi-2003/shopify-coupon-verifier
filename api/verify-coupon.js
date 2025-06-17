@@ -12,6 +12,7 @@ export default function handler(req, res) {
   const coupons = {
     SAVE10: { name: "John Doe", email: "john@example.com" },
     OFFER20: { name: "Jane Smith", email: "jane@example.com" },
+    Bhush: { name: "Bhushan", email: "bhushan@example.com" },
   };
 
   if (coupons[code]) {
