@@ -11,6 +11,9 @@ export default function handler(req, res) {
 
   const coupons = {
     Bhush: { name: "Bhushan", email: "bhushan@example.com" },
+    SHARDULSIR2: { name: "Shardul Gangal", email: "shardul@indiraedu.com" },
+    CHETANSIR2 : { name: "Chetan Wakalkar", email: "cwakalkar@indiraedu.com" },
+    MANISHSIR2 : { name: "Manish Dalmia", email: "manish.dalmia@indiraedu.com" },
     2967: { name: "Manish Dalmia", email: "manish.dalmia@indiraedu.com", coupon: "MANISHDALMIA" },
     1705: { name: "Ravindra Sarje", email: "Director-admission@indiraedu.com", coupon: "RAVINDRASARJE" },
     3008: { name: "Priyashi Priya Yadav", email: "priyashi.yadav@indiraisbs.edu.in", coupon: "PRIYASHIPRIYAYADAV" },
