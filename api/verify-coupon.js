@@ -54,7 +54,7 @@ export default function handler(req, res) {
     2439: { name: "Anand Ambekar", email: "anand.ambekar@indiraisc.edu.in", coupon: "ANANDAMBEKAR" },
     3011: { name: "Disha Ghai", email: "disha.ghai@indiraiimp.edu.in", coupon: "DISHAGHAI" },
     3010: { name: "Varun Soni", email: "varun.soni@indiraiimp.edu.in", coupon: "VARUNSONI" },
-    INTERNEHA: { name: "Neha Shekhavat", email: "neha24.shekhawat@gmail.com", coupon: "NEHASHEKHAVAT" },
+    INTERNNEHA: { name: "Neha Shekhavat", email: "neha24.shekhawat@gmail.com", coupon: "NEHASHEKHAVAT" },
     INTERNLAKSH: { name: "Laksh Dhanani", email: "lakshdhanani26@gmail.com", coupon: "LAKSHDHANANI" }
 
   };
