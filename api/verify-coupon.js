@@ -12,8 +12,8 @@ export default function handler(req, res) {
   const coupons = {
     Bhush: { name: "Bhushan", email: "bhushan@example.com" },
     SHARDULSIR2: { name: "Shardul Gangal", email: "shardul@indiraedu.com" },
-    CHETANSIR2 : { name: "Chetan Wakalkar", email: "cwakalkar@indiraedu.com" },
-    MANISHSIR2 : { name: "Manish Dalmia", email: "manish.dalmia@indiraedu.com" },
+    CHETANSIR2: { name: "Chetan Wakalkar", email: "cwakalkar@indiraedu.com" },
+    MANISHSIR2: { name: "Manish Dalmia", email: "manish.dalmia@indiraedu.com" },
     2967: { name: "Manish Dalmia", email: "manish.dalmia@indiraedu.com", coupon: "MANISHDALMIA" },
     1705: { name: "Ravindra Sarje", email: "Director-admission@indiraedu.com", coupon: "RAVINDRASARJE" },
     3008: { name: "Priyashi Priya Yadav", email: "priyashi.yadav@indiraisbs.edu.in", coupon: "PRIYASHIPRIYAYADAV" },
@@ -58,7 +58,10 @@ export default function handler(req, res) {
     3011: { name: "Disha Ghai", email: "disha.ghai@indiraiimp.edu.in", coupon: "DISHAGHAI" },
     3010: { name: "Varun Soni", email: "varun.soni@indiraiimp.edu.in", coupon: "VARUNSONI" },
     INTERNNEHA: { name: "Neha Shekhavat", email: "neha24.shekhawat@gmail.com", coupon: "NEHASHEKHAVAT" },
-    INTERNLAKSH: { name: "Laksh Dhanani", email: "lakshdhanani26@gmail.com", coupon: "LAKSHDHANANI" }
+    INTERNLAKSH: { name: "Laksh Dhanani", email: "lakshdhanani26@gmail.com", coupon: "LAKSHDHANANI" },
+    2384: { name: "Vivek J", email: "vivek_j@indiraiimp.edu.in" },
+    INTERNROHIT: { name: "Rohit Mane", email: "rohitsmane2029@gmail.com" },
+    2553: { name: "Mrunalinee D", email: "mrunalinee.deshmukh@indiraisbs.ac.in" }
 
   };
 
