@@ -61,7 +61,12 @@ export default function handler(req, res) {
     INTERNLAKSH: { name: "Laksh Dhanani", email: "lakshdhanani26@gmail.com", coupon: "LAKSHDHANANI" },
     2384: { name: "Vivek J", email: "vivek_j@indiraiimp.edu.in" },
     INTERNROHIT: { name: "Rohit Mane", email: "rohitsmane2029@gmail.com" },
-    2553: { name: "Mrunalinee D", email: "mrunalinee.deshmukh@indiraisbs.ac.in" }
+    2553: { name: "Mrunalinee D", email: "mrunalinee.deshmukh@indiraisbs.ac.in" },
+    2961: { name: "Mr. Rajive Bansal", email: "rajiv.bansal@indiraedu.com" },
+    95: { name: "Dr Anagha Joshi", email: "vc@indirauniversity.edu.in" },
+    2961: { name: "Dr. Rupa Hiremath", email: "rupa_hiremath@indiraedu.com" },
+    2927: { name: "Ashwini Patwe", email: "ashwini.patve@indiraicp.edu.in" },
+    2899: { name: "Suhas Koli", email: "suhas.koli@indiraisbs.edu.in" },
 
   };
 
