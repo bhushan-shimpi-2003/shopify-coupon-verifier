@@ -10,7 +10,6 @@ export default function handler(req, res) {
   const { code } = req.query;
 
   const coupons = {
-    Bhush: { name: "Bhushan", email: "bhushan@example.com" },
     SHARDULSIR2: { name: "Shardul Gangal", email: "shardul@indiraedu.com" },
     CHETANSIR2: { name: "Chetan Wakalkar", email: "cwakalkar@indiraedu.com" },
     MANISHSIR2: { name: "Manish Dalmia", email: "manish.dalmia@indiraedu.com" },
