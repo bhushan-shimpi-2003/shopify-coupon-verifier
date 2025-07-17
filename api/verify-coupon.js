@@ -149,6 +149,7 @@ export default function handler(req, res) {
     1905: { name: "Nitin Joshi", email: "nitin.joshi@indiraiimp.edu.in" },
     2220: { name: "Priti Kulkarni", email: "priti.kulkarni@indiraiimp.edu.in" },
     429: { name: "Punam Bhoyar", email: "punam.bhoyar@indiraiimp.edu.in" },
+    2069: { name: "Rajiv Bansal", email: "rajiv.bansal@indiraedu.com" },
     109: { name: "Purvi Shah", email: "purvi.shah@indiraiimp.edu.in" },
     1745: { name: "Rahul Pande", email: "rahul.pande@indiraedu.com" },
     1679: { name: "Ravi Baijulal Bhandari", email: "ravi.bhandari@indiraiimp.edu.in" },
