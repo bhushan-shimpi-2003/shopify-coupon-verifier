@@ -31,6 +31,7 @@ export default function handler(req, res) {
     2992: { name: "Shreyad Barai", email: "shreyad.barai@indiraisbs.ac.in", coupon: "SHREYADBARAI" },
     3022: { name: "Srushti Talwekar", email: "srushti.talwekar@iccs.ac.in", coupon: "SRUSHTITALWEKAR" },
     2994: { name: "Nitisha Ranit", email: "nitisha.ranit@iccs.ac.in", coupon: "NITISHARANIT" },
+    96: { name: "Dr Anagh Joshi", email: "vc@indirauniversity.edu.in", coupon: "96" },
     3050: { name: "Meghal Gandhi", email: "meghal.gandhi@indiraiimp.edu.in", coupon: "MEGHALGANDHI" },
     2999: { name: "Shahin Tadvi", email: "shahin.tadvi@indiraiimp.edu.in", coupon: "SHAHINTADVI" },
     3043: { name: "Ragani Sonawane", email: "ragini.sonawane@indiraisbs.edu.in", coupon: "RAGANISONAWANE" },
