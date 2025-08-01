@@ -11,6 +11,7 @@ export default function handler(req, res) {
 
   const coupons = {
 
+      3053: { name: "Suneha Sharma", email: "suneha.soni@indirauniversity.edu.in" },
     // Indira Students
     6204664504: { name: "HARSH KUMAR", email: "harsh840990@gmail.com" },
     6207047035: { name: "ASTHA DUTT", email: "duttastha29@gmail.com" },
